@@ -1,0 +1,22 @@
+{
+    "students":[
+            {
+              "id": 1,
+              "name": "Alice Smith",
+              "age": 28,
+              "image": "https://example.com/images/alice.jpg"
+            },
+            {
+              "id": 2,
+              "name": "Bob Johnson",
+              "age": 35,
+              "image": "https://example.com/images/bob.jpg"
+            },
+            {
+              "id": 3,
+              "name": "Charlie Brown",
+              "age": 42,
+              "image": "https://example.com/images/charlie.jpg"
+            }
+          ]
+}
